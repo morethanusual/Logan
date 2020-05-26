@@ -138,12 +138,12 @@ def send_start(bot, update):
     text = " Hello {}, my name is {}! - I'm here to help you manage your groups!\n\
 Click Help or /help.. button to find out more about how to use me to my full potential.\n\n"
 
-    text += " The Bot Has Made With LOVE By [Ben 10!!](https://t.me/Baby_xD)"
+    text += "Bot Has Made With LOVE By [Ben 10!!](https://t.me/Baby_xD)"
 
 
 
-    keyboard = [[InlineKeyboardButton(text="📢 Support Group", url="https://t.me/HarukaAyaGroup")]]
-    keyboard += [[InlineKeyboardButton(text="🛠 Control panel", callback_data="cntrl_panel_M")]]
+    
+    keyboard 
     keyboard += [[InlineKeyboardButton(text="🇺🇸 Language", callback_data="set_lang_"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
 
