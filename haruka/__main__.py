@@ -143,7 +143,7 @@ Click Help or /help.. button to find out more about how to use me to my full pot
 
 
     
-    keyboard 
+  
     keyboard += [[InlineKeyboardButton(text="🇺🇸 Language", callback_data="set_lang_"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
 
