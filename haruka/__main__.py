@@ -142,7 +142,7 @@ Click Help or /help.. button to find out more about how to use me to my full pot
 
 
 
-    keyboard = [[InlineKeyboardButton(text="📢 Support Group", url="https://t.me/Baby_xD")]]	
+    keyboard = [[InlineKeyboardButton(text="📢 Support Group", url="https://t.me/Baby_NeTwoRK")]]	
     keyboard += [[InlineKeyboardButton(text="🛠 Control panel", callback_data="cntrl_panel_M")]]	
 
   
