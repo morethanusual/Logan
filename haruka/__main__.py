@@ -135,10 +135,10 @@ def send_start(bot, update):
         pass
 
     #chat = update.effective_chat  # type: Optional[Chat] and unused variable
-    text = " Hello , my name is Ben 10! - I'm here to help you manage your groups!\n\
+    text = " Hello , my name is Sunny Leone! - I'm here to help you manage your groups!\n\
 Click Help or /help.. button to find out more about how to use me to my full potential.\n\n"
 
-    text += " Bot Has Made With LOVE By [Ben 10!!](https://t.me/Baby_xD)"
+    text += " I wanna do Bad things with [Play Boy!!](https://t.me/Baby_xD) And Support us with Love"
 
 
 
