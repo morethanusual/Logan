@@ -135,14 +135,14 @@ def send_start(bot, update):
         pass
 
     #chat = update.effective_chat  # type: Optional[Chat] and unused variable
-    text = " Hello , my name is Sunny Leone! - I'm here to help you manage your groups!\n\
+    text = " Hello , my name is *{}* ! - I'm here to help you manage your groups!\n\
 Click Help or /help.. button to find out more about how to use me to my full potential.\n\n"
 
-    text += " I wanna do Bad things with [Play Boy!!](https://t.me/Baby_xD) And Support us with Love"
+    text += " Made with love and maintained by [this sexy Girl.](https://t.me/rashmikamandannaofficial) And Support us with Love"
 
 
 
-    keyboard = [[InlineKeyboardButton(text="📢 Support Group", url="https://t.me/Baby_NeTwoRK")]]	
+    keyboard = [[InlineKeyboardButton(text="📢 Support Channel", url="https://t.me/Xploitcrew")]]	
     keyboard += [[InlineKeyboardButton(text="🛠 Control panel", callback_data="cntrl_panel_M")]]	
 
   
